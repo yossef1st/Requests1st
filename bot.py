@@ -55,4 +55,4 @@ async def طلب(ctx, *, المهمة: str):
         color=discord.Color.blue()
     ), view=view)
 
-bot.run("")
+bot.run("MTM5NDMzMDk5ODAxNTAwNDY5Mg.GjAxck.UeC_pS6UD0yE8IxxFsOBWuEN-jgYZTGkafweYk")
